@@ -1,7 +1,7 @@
 # DATA ANALYTICS PORTFOLIO
 ## Project 1
 
-**Title:** Health and Lifestyle Analytics Dashboard
+**Title:** [Health and Lifestyle Analytics Dashboard](https://github.com/OmotolaOlufemi/OmotolaOlufemi.github.io/blob/main/health-and-lifestyle.png)
 
 
 **Tools Used:** Microsoft Excel()
