@@ -12,7 +12,7 @@
 
 **Dashboard Overview:**
 
-[health-and-lifestyle.png](health-and-lifestyle)
+![health-and-lifestyle.png](health-and-lifestyle)
 
 ## Project 2
 **Title:** Employee analytics
