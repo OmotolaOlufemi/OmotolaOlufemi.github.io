@@ -18,7 +18,6 @@
 
 *Employee Distribution:* To visualise workforce spread across departments.
 
-
 **Key findings:**
 *Department Performance:* Identified departments with strong and weak performnace levels.
 
@@ -74,9 +73,27 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Tools Used:** Microsoft Excel()
 
-**Project Description:**
+**Project Description:** This project involved analysing health and lifestyle data to identify key patterns affecting wellbeing across different age groups. It is designed to provide a clear overview of major health indicators. This dashboard allows stakeholders to easily monitoor trends in chronic diseases, stress levels and overall health risks. The dashboard includes the following features:
 
-**Key findings:**
+*Age Distribution:* Shows how individuals are spread across age groups.
+
+*Chronic Disease Distribution:* Highlights the prevalence of chronic conditions within the population.
+
+*Stress Levels by Age:* Displays how stress varies across different age categories.
+
+*Health Risk Distribution:* Provides an overview of low, medium and high-risk individuals.
+
+**Key findings:** 
+*Age Patterns:* Identified which age groups have the highest representation and how they relate to health outcomes.
+
+*Chronic Disease Insights:* Revealed the most common chronic conditions and their impact on overall health.
+
+*Stress Trends:* Showed clear differences in stress levels across age groups.
+
+*Health Risk Breakdown:* Highlighted the proportion of individuals in low, medium and high-risk categories.
+
+*Wellbeing Variability:* Exposed patterns that can guide targeted health interventions and lifestyle support.
+
 
 **Dashboard Overview:**
 
@@ -89,7 +106,7 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Tools Used:** Microsoft Excel()
 
-**Project Description:**
+**Project Description:** 
 
 **Key findings:**
 
