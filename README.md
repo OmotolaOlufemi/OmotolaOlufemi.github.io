@@ -6,9 +6,30 @@
 
 **Tools Used:** Power BI()
 
-**Project Description:**
+**Project Description:** This project analyses employee performance data to provide a clear overview of productivity across the organisation. The dashboard helps HR and leadership monitor key performance metrics and compare results across departments, education levels and experience levels. It includes:
+
+*Employee count and Average Performance Score:* A quick organisation snapshot.
+
+*Performance by Department:* To highlight high and low performing areas.
+
+*Performnace by Education Level:* To understand how qualifications relate to performance.
+
+*Performance by Experience Level:* To show how tenure influences productivity.
+
+*Employee Distribution:* To visualise workforce spread across departments.
+
 
 **Key findings:**
+*Department Performance:* Identified departments with strong and weak performnace levels.
+
+*Education Insights:* Showed how different education levels correlate with performance outcomes.
+
+*Experience Trends:* Revealed how years of experience impact performance scores.
+
+*Wokforce Distribution:* Highlighted staffing patttern across departments.
+
+*Performance Variability:* Exposed gaps that can guide training, development and HR planning.
+
 
 **Dashboard Overview:**
 
