@@ -62,4 +62,4 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Dashboard Overview:**
 
-[sales](sales.png)
+![sales](sales.png)
