@@ -106,9 +106,25 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Tools Used:** Microsoft Excel()
 
-**Project Description:** 
+**Project Description:** This project involved analysing retail and warehouse sales data to compare performance across both channels. It is designed to provide a clear overview of key sales metrics. This dashboard allows stakeholders to easily monitor revenue, units sold and monthly performance trends for each channel. The dashboard includes the following features:
+
+*Total Sales by Channel:* Shows overall sales performance for retail and warehouse operations.
+
+*Monthly Sales Trend:* Displays month by month sales to highlight seasonal patterns and flunctuations.
+
+*Units Sold by Channel:* Compares product movement across retail and warehouse outlets.
+
+*Revenue Breakdown:* Shows how much revenue each channel contributes to overall business performance.
 
 **Key findings:**
+*Channel Comparison:* Identified which channel (retail or warehouse) generated higher sales and revenue.
+
+*Seasonal Trends:* Revealed monthly sales patterns that help guide inventory and staffing decisions.
+
+*Sales Variability:* Showed flunctuations in sales volume and revenue, supporting more accurate forecasting.
+
+*Operational Insights:* Provided clarity on how each channel contributes to overall business growth.
+
 
 **Dashboard Overview:**
 
