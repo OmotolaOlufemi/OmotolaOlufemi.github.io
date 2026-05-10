@@ -35,6 +35,7 @@
 
 ![employee-performance](employee-performance.png)
 
+# DATA ANALYTICS PORTFOLIO
 ## Project 2
 **Title:** Employee analytics
 
