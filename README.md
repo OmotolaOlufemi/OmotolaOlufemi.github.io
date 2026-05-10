@@ -50,7 +50,18 @@ Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant dat
 
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
-**Project Description:**
+**Project Description:** This project involved analysing employee data using SQL to identify key workforce patterns trends. It provides a clear overview of essential HR metrics by querying and Aggregating data directly from the database. The project includes the following components:
+
+*Data Retrieval (SELECT):* Extracted employee details such as department, salary and performance.
+
+*Data Filtering (WHERE, BETWEEN, IN):* Focused on specific employee groups based on set conditions.
+
+*Data Aggregation (SUM, COUNT, AVG):* Calculated totals and averages to reveal trends.
+
+*Table Joins (FROM, JOIN):* Combined multiple tables for a complete view of employee information.
+
+*Sorting and Grouping (ORDER BY, GROUP BY):* Organised results to highlight patterns across departments and roles.
+
 
 **Technology used:** SQL server
 
