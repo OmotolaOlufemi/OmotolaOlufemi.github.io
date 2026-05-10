@@ -1,10 +1,10 @@
 # DATA ANALYTICS PORTFOLIO
 ## Project 1
 
-**Title:** [Health and Lifestyle Analytics Dashboard](https://github.com/OmotolaOlufemi/OmotolaOlufemi.github.io/blob/main/health-and-lifestyle.png)
+**Title:** [Employee Performance Report](https://github.com/OmotolaOlufemi/OmotolaOlufemi.github.io/blob/main/employee-performance.png)
 
 
-**Tools Used:** Microsoft Excel()
+**Tools Used:** Power BI()
 
 **Project Description:**
 
@@ -12,7 +12,7 @@
 
 **Dashboard Overview:**
 
-![health-and-lifestyle](health-and-lifestyle.png)
+![employee-performance](employee-performance.png)
 
 ## Project 2
 **Title:** Employee analytics
@@ -32,3 +32,34 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 **Project Description:**
 
 **Technology used:** SQL server
+
+# DATA ANALYTICS PORTFOLIO
+## Project 3
+
+**Title:** [Health and Lifestyle Analytics Dashboard](https://github.com/OmotolaOlufemi/OmotolaOlufemi.github.io/blob/main/health-and-lifestyle.png)
+
+
+**Tools Used:** Microsoft Excel()
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**
+
+![health-and-lifestyle](health-and-lifestyle.png)
+
+# DATA ANALYTICS PORTFOLIO
+## Project 4
+
+**Title:** [Retail and Warehouse Sales Performance Dashboard](https://github.com/OmotolaOlufemi/OmotolaOlufemi.github.io/blob/main/sales.png)
+
+**Tools Used:** Microsoft Excel()
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**
+
+[sales](sales.png)
