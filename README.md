@@ -42,13 +42,13 @@
 
 **SQL Skills Used:** 
 
-Data Retrieval (SELECT): Queried and extracted specific information from the database.
+*Data Retrieval (SELECT):* Queried and extracted specific information from the database.
 
-Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+*Data Aggregation (SUM, COUNT):* Calculated totals, such as sales and quantities, and counted records to analyze data trends.
 
-Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+*Data Filtering (WHERE, BETWEEN, IN, AND):* Applied filters to select relevant data, including filtering by ranges and lists.
 
-Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+*Data Source Specification (FROM):* Specified the tables used as data sources for retrieval
 
 **Project Description:** This project involved analysing employee data using SQL to identify key workforce patterns trends. It provides a clear overview of essential HR metrics by querying and Aggregating data directly from the database. The project includes the following components:
 
